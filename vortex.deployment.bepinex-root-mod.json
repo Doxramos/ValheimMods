@@ -1,0 +1,17 @@
+{
+  "instance": "9ac3592e-52b7-4070-9228-d802692740c2",
+  "version": 1,
+  "deploymentMethod": "symlink_activator_elevated",
+  "gameId": "valheim",
+  "deploymentTime": 1635181038818,
+  "stagingPath": "C:\\Users\\Chubs\\AppData\\Roaming\\Vortex\\valheim\\mods",
+  "targetPath": "E:\\Steam\\steamapps\\common\\Valheim Modded\\BepInEx",
+  "files": [
+    {
+      "relPath": "plugins\\ValheimPlus.dll",
+      "source": "0.9.9 ValheimPlus Vortex-4-0-9-9-1631875064",
+      "target": "",
+      "time": 1631874543000
+    }
+  ]
+}

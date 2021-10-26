@@ -1,0 +1,125 @@
+{
+  "instance": "9ac3592e-52b7-4070-9228-d802692740c2",
+  "version": 1,
+  "deploymentMethod": "symlink_activator_elevated",
+  "gameId": "valheim",
+  "deploymentTime": 1635181038910,
+  "stagingPath": "C:\\Users\\Chubs\\AppData\\Roaming\\Vortex\\valheim\\mods",
+  "targetPath": "E:\\Steam\\steamapps\\common\\Valheim Modded\\BepInEx\\plugins",
+  "files": [
+    {
+      "relPath": "files\\adventuredata.json",
+      "source": "Epic Loot-387-0-8-7-1633673104",
+      "target": "",
+      "time": 1621435044000
+    },
+    {
+      "relPath": "files\\abilities.json",
+      "source": "Epic Loot-387-0-8-7-1633673104",
+      "target": "",
+      "time": 1622170557000
+    },
+    {
+      "relPath": "files\\EpicLoot.dll",
+      "source": "Epic Loot-387-0-8-7-1633673104",
+      "target": "",
+      "time": 1633672994000
+    },
+    {
+      "relPath": "files\\enchantcosts.json",
+      "source": "Epic Loot-387-0-8-7-1633673104",
+      "target": "",
+      "time": 1620942471000
+    },
+    {
+      "relPath": "files\\iteminfo.json",
+      "source": "Epic Loot-387-0-8-7-1633673104",
+      "target": "",
+      "time": 1620415763000
+    },
+    {
+      "relPath": "files\\itemnames.json",
+      "source": "Epic Loot-387-0-8-7-1633673104",
+      "target": "",
+      "time": 1620481740000
+    },
+    {
+      "relPath": "files\\loottables.json",
+      "source": "Epic Loot-387-0-8-7-1633673104",
+      "target": "",
+      "time": 1627527744000
+    },
+    {
+      "relPath": "files\\legendaries.json",
+      "source": "Epic Loot-387-0-8-7-1633673104",
+      "target": "",
+      "time": 1627527744000
+    },
+    {
+      "relPath": "files\\recipes.json",
+      "source": "Epic Loot-387-0-8-7-1633673104",
+      "target": "",
+      "time": 1620921028000
+    },
+    {
+      "relPath": "files\\magiceffects.json",
+      "source": "Epic Loot-387-0-8-7-1633673104",
+      "target": "",
+      "time": 1631998805000
+    },
+    {
+      "relPath": "EquipmentAndQuickSlots.dll",
+      "source": "Equipment and Quick Slots-92-2-0-14-1631985982",
+      "target": "",
+      "time": 1631985886000
+    },
+    {
+      "relPath": "files\\translations.json",
+      "source": "Epic Loot-387-0-8-7-1633673104",
+      "target": "",
+      "time": 1631937842000
+    },
+    {
+      "relPath": "ExtendedItemDataFramework.dll",
+      "source": "Extended Item Data Framework-281-1-0-5-1631997676",
+      "target": "",
+      "time": 1631997174000
+    },
+    {
+      "relPath": "valheim_Data\\globalgamemanagers.assets",
+      "source": "HD Valheim 0.7.8-302-0-7-8-1633458491",
+      "target": "",
+      "time": 1633444559000
+    },
+    {
+      "relPath": "valheim_Data\\sharedassets4.assets",
+      "source": "HD Valheim 0.7.8-302-0-7-8-1633458491",
+      "target": "",
+      "time": 1633445667000
+    },
+    {
+      "relPath": "InstantMonsterDrop.dll",
+      "source": "Instant Monster Loot Drop-164-0-4-0-1631911935",
+      "target": "",
+      "time": 1631922720000
+    },
+    {
+      "relPath": "valheim_Data\\sharedassets1.assets",
+      "source": "HD Valheim 0.7.8-302-0-7-8-1633458491",
+      "target": "",
+      "time": 1633457483000
+    },
+    {
+      "relPath": "valheim_Data\\sharedassets3.assets",
+      "source": "HD Valheim 0.7.8-302-0-7-8-1633458491",
+      "target": "",
+      "time": 1633445604000
+    },
+    {
+      "relPath": "CameraMod.dll",
+      "source": "CameraMod v0.0.8g-44-0-0-87-1632174832",
+      "target": "",
+      "time": 1632181752000
+    }
+  ]
+}
